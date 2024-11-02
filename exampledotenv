@@ -1,0 +1,28 @@
+#General
+HTTP_PORT=3000
+CLIENT_URL="http://localhost:3000"
+
+#Node Enviroment
+#
+NODE_ENV="development" # ["production", "development", "test", "staging"]
+
+#Database
+DB_NAME=
+DB_HOST=
+DB_PORT=
+DB_USER=
+DB_PASSWORD=
+
+# JWT
+JWT_SECRET =""
+ACCESS_TOKEN_SECRET=""
+REFRESH_TOKEN_SECRET=""
+
+
+SMTP_HOST=""  
+SMTP_PORT=    
+SMTP_SECURE=  
+SMTP_USER=""  
+SMTP_PASS=""  
+EMAIL_FROM="" 
+
